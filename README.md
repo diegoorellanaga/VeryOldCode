@@ -42,8 +42,14 @@ This script implements a filter to a given image. The parameters for this functi
 * An image
 * A filter
 
-If you want to know any more details feel free to leave me a message.
 ![Alt Text2]
+
+If you want to know any more details feel free to leave me a message.
+
+![Alt Text2] ![Alt Text2]
+![Alt Text2]
+
+
 
 
 
