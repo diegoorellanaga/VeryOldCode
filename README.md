@@ -37,6 +37,9 @@ This script implements a filter to a given image. The parameters for this functi
 If you want to know any more details feel free to leave me a message.
 
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 
 ![GitHub Logo](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
 Format: ![Alt Text]
