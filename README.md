@@ -27,6 +27,14 @@ This script is divided into parts, each part plays a specific role:
 
 All the parameters of the Skin detector functions are described inside the code of each function.
 
+For example if you give the following image:
+
+![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6.png)
+
+It will return:
+
+![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
+
 ## Convolution ##
 
 This script implements a filter to a given image. The parameters for this function are the following
@@ -35,24 +43,10 @@ This script implements a filter to a given image. The parameters for this functi
 * A filter
 
 If you want to know any more details feel free to leave me a message.
+![Alt Text2]
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-
-![GitHub Logo](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
-Format: ![Alt Text](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
-
-![GitHub Logo](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
-Format: ![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
-
-![GitHub Logo](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
-Format: ![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
-
-![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
-
-![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6.png)
 
 [Video]:	https://www.youtube.com/watch?v=NX2e5vXbOPA
+[Alt Text2]:	https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png
 
