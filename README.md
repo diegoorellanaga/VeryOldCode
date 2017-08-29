@@ -46,7 +46,7 @@ With this simple function we can obtain the following results:
 
 ![filter]
 
-If you want to know any more details feel free to leave me a message.
+If you want to know any more details about the code, feel free to leave me a message.
 
 
 
