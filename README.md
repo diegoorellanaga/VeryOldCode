@@ -50,7 +50,9 @@ Format: ![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/b
 ![GitHub Logo](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
 Format: ![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
 
+![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
 
+![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6.png)
 
 [Video]:	https://www.youtube.com/watch?v=NX2e5vXbOPA
 
