@@ -42,11 +42,13 @@ http://github.com - automatic!
 
 
 ![GitHub Logo](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
-Format: ![Alt Text]
+Format: ![Alt Text](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
 
+![GitHub Logo](/home/diego/Desktop/VeryOldCode/beach_6-m.png)
+Format: ![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
 
-
-
+![GitHub Logo](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
+Format: ![Alt Text](https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png)
 
 
 
