@@ -42,12 +42,13 @@ This script implements a filter to a given image. The parameters for this functi
 * An image
 * A filter
 
-![Alt Text2]
+With this simple function we can obtain the following results:
+
+![filter]
 
 If you want to know any more details feel free to leave me a message.
 
-![Alt Text2] ![Alt Text2]
-![Alt Text2]
+
 
 
 
@@ -55,4 +56,5 @@ If you want to know any more details feel free to leave me a message.
 
 [Video]:	https://www.youtube.com/watch?v=NX2e5vXbOPA
 [Alt Text2]:	https://github.com/diegoorellanaga/VeryOldCode/blob/master/beach_6-m.png
+[filter]:	https://github.com/diegoorellanaga/VeryOldCode/blob/master/filter.jpg
 
