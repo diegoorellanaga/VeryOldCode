@@ -4,12 +4,30 @@ Base Header Level:	2
 
 # Introduction #
 
-These are some old scripts I made a few years ago. One was written in C++ using the OpenCV library, the others were written in Matlab and they are; an implementation of a neural network to detect skin in images, and a simple convolution function, that receives an image and a filter.
+These are some old scripts I made a few years ago. One was written in C++ using the OpenCV library, the others were written in Matlab and they are; a splitscan effect, an implementation of a neural network to detect skin in images, and a simple convolution function.
 
 ## SlitScan Effect ##
 
 This script was written in C++ and is the implementation of an effect on video. You can see the results in the following link:
 [Video] 
+
+The code of this function is very short, and I think is self explanatory.
+
+
+## Skin detector ##
+
+This script is divided in parts, each part plays an especific role:
+
+*CreadorVectoresEntrenamiento2: Creates the training information from the training images.
+*CreadorVectoresTarget2: Creates the target information from special images.
+*ObtenerMatrizParaEntrenar: Using the previous functions we create a matriz with which the neural network is going to be trained.
+*Tarea_3_VA: With this function we train the neural network.
+*CrearImagenDetectandoPiel2: With this function we detect the skin in an image given a trained neural network.
+*Tarea3VA_D_O: This is function that we actually execute, it has the complete process encapsulated.
+
+All the parameters of the Skin detector functions are described inside the code of each function.
+
+
 
 # Functions #
 
